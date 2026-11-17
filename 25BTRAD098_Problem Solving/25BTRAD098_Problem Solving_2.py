@@ -1,3 +1,4 @@
+#student grading automation
 def calculate_grade(score):
     """Returns letter grade and status based on score."""
 
